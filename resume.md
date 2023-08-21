@@ -2,9 +2,13 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
+
+## Job summary
+
 ## Jobs
 
-### GitHub Trainer
+
+### GitHub mentor
 
 Teach all things Git, give away all the stickers, ensure world peace.
 
@@ -12,7 +16,6 @@ Teach all things Git, give away all the stickers, ensure world peace.
 
 Provide world class support to customers on the GitHub platform
 
-## Skills
 
 ### Education
 
